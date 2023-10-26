@@ -1,2 +1,2 @@
-# Proiect-26.10.2023
+# banaru_alexandru
 Primul proiect git pt facultate
